@@ -1,0 +1,17 @@
+body { font-family: Inter; background: #f0f4ff; text-align: center; margin: 10px; } 
+
+h1 { color: #333; } 
+
+.btn-add { background: green; color: white; padding: 10px; text-decoration: none; border-radius: 5px; } 
+
+.container { display: flex; justify-content: center; flex-wrap: wrap; } 
+
+.card { background: white; padding: 15px; margin-top: 20px; width: 500px; text-align: justify; border-radius: 8px; box-shadow: 0 3px 6px gray; } 
+
+.edit { background: blue; color: white; padding: 5px 8px; text-decoration: none; border-radius: 4px; } 
+
+.delete { background: red; color: white; padding: 5px 8px; text-decoration: none; border-radius: 4px; } 
+
+form input { display: block; margin: 10px auto; padding: 8px; width: 250px; } 
+
+button { padding: 8px 15px; }
